@@ -21,13 +21,13 @@ hr#separador{
 
 input{
     font-size: 12pt;
-    width: 200px;
+    width: 150px;
 }
 
-input#calc{    
+input#calc{
     background-color: rgb(234, 3, 255);
     padding: 10px;
-
+    width: 150px;
 }
 
 div#resultado{
