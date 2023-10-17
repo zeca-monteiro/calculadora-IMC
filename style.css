@@ -1,0 +1,42 @@
+section{
+    border-radius: 30px;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(10, 10, 10);
+    margin: auto;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    font-size: 14pt;
+    line-height: 3;
+}
+
+h3{
+    line-height: normal;
+}
+hr#separador{
+    border: 1;
+    border-top: 1px solid rgb(234, 3, 255);
+}
+
+input{
+    font-size: 12pt;
+}
+input#calc{
+    width: 200px;
+    background-color: rgb(234, 3, 255);
+    padding: 10px;
+
+}
+
+div#resultado{
+    border-radius: 20px;
+    background-color: white;
+    width: 225px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    color: black;
+    line-height: 2;
+}
