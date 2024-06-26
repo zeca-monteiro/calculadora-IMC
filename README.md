@@ -1,4 +1,4 @@
 # Calculadora-IMC
-Challenge proposed by Fernando Leonid with If practice in JavaScript.
+Challenge proposed by Fernando Leonid with practice in JavaScript, HTML and CSS.
 
-See it working at: https://zeca-monteiro.github.io/Calculadora-IMC/
+See it working at: https://zeca-monteiro.github.io/calculadora-IMC/
